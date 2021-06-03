@@ -3,6 +3,7 @@ This is the github of A Man Named Gerald.
 I have been doing IT work for over 20 years, mostly Unix systems administration. IT is my second career. I am currently working in AWS. 
 Interests/skills:
 - AWS
+- Linux
 - Shell scripts
 - Python
 - Perl
